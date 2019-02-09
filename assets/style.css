@@ -1,0 +1,49 @@
+body {
+    max-width:100%;
+
+} 
+
+img {
+    width:100%;
+    
+} 
+
+section {
+    padding-bottom:56.25%;
+    height:0;
+    overflow: hidden;
+}
+
+.footerPic {
+    max-width:50px;
+
+} 
+
+footer {
+    position:fixed; 
+    bottom:0; 
+    left:0; 
+    right:0;
+
+}
+
+#github {
+    color:black;
+}
+
+#github:hover {
+    color:grey;
+}
+
+.footerPush {
+    height:100px;
+}
+
+.card {
+    margin:auto;
+}
+
+#formGroup {
+    margin-left:85px;
+    margin-right:85px;
+}
