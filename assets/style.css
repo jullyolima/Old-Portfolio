@@ -47,3 +47,12 @@ footer {
     margin-left:85px;
     margin-right:85px;
 }
+
+.card-img-top {
+    border: 3px solid grey;
+}
+
+.cardtext {
+    border: 3px solid grey;
+    text-align:Center;
+}
